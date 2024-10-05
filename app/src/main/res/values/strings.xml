@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <string name="email">Email\n</string>
+    <string name="google_account">Google Account\n</string>
+</resources>
