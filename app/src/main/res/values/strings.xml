@@ -2,4 +2,10 @@
     <string name="app_name">My Application4</string>
     <string name="email">Email\n</string>
     <string name="google_account">Google Account\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="allah">Allah</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="blue">Blue</string>
 </resources>
