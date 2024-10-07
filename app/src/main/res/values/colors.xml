@@ -5,4 +5,5 @@
     <color name="background_second">#2A2243</color>
     <color name="cardview_color">#6667BC</color>
     <color name="background_main">#070215</color>
+    <color name="blue">#000080</color>
 </resources>
